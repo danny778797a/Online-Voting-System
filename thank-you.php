@@ -6,7 +6,7 @@
 
 <style>
 body{
-		margin:0px;
+		margin:10px;
 		padding: 0px;
 		background-image: url('login.jpg');
 	}
